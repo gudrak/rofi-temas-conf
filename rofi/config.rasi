@@ -1,0 +1,14 @@
+@theme "/home/kanna/.config/rofi/themes/roseloli.rasi"
+
+configuration {
+
+  /* seleccionar sobrevolando */
+  hover-select: true;
+
+  /* yo seleccionar entrada*/
+  me-select-entry: "";
+
+  /* usar solo un click para aceptar una entrada */
+  me-accept-entry: [ MousePrimary, MouseSecondary, MouseDPrimary ];
+
+}
